@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashyapashray
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and JavaScript
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Python and Machine learning libraries. Looking for projects in ML to learn more
 - 📫 How to reach me? - email: kashyapashray@gmail.com
 
 <!---
